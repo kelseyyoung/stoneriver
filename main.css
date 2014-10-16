@@ -1,0 +1,48 @@
+.green {
+  color: #81D415;
+}
+.green-bg {
+  background-color: #81D415;
+  color: #151515;
+}
+.dark {
+  color: #151515;
+}
+.dark-bg {
+  background-color: #151515;
+}
+.white-bg {
+  background-color: white;
+  color: #151515;
+}
+.black-text {
+  color: #000000;
+}
+body {
+  color: #EEEEEE;
+  background-color: #151515;
+  font-family: 'Open Sans', sans-serif;
+}
+.container-fluid {
+  height: 100%;
+  max-height: 100%;
+  overflow: auto;
+}
+#header {
+  margin-bottom: 10px;
+  border-bottom: 4px #81D415 solid;
+}
+#sidebar {
+  height: 650px;
+  max-height: 650px;
+}
+#sidebar-bundles {
+  height: 500px;
+  max-height: 500px;
+  overflow: auto;
+}
+#content {
+  height: 650px;
+  max-height: 650px;
+  overflow: auto;
+}
